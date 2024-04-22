@@ -1,6 +1,6 @@
 # FlowerCloud 花云机场官网
 
-官网最新地址：[FlowerCloud 花云机场官网](https://flowercloud.net/)
+官网最新地址：[FlowerCloud 花云机场官网](https://flowercloud.net/aff.php?aff=4046)
 
 
 ## 简介
@@ -20,7 +20,7 @@
 
 ## FlowerCloud 花云机场优惠码
 
-虽然目前暂无特别的优惠码，但用户在 [FlowerCloud 花云机场官网](https://flowercloud.net/) 订阅年付套餐时可享受一定的优惠，进一步增加性价比。
+虽然目前暂无特别的优惠码，但用户在 [FlowerCloud 花云机场官网](https://flowercloud.net/aff.php?aff=4046) 订阅年付套餐时可享受一定的优惠，进一步增加性价比。
 
 
 
